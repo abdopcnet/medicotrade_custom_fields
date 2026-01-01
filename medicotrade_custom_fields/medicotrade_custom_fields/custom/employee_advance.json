@@ -1,0 +1,32 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Employee Advance",
+ "links": [],
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2025-06-14 19:35:09.809147",
+   "default_value": null,
+   "doc_type": "Employee Advance",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "naming_series",
+   "idx": 0,
+   "is_system_generated": 1,
+   "modified": "2026-01-01 05:34:25.894253",
+   "modified_by": "Administrator",
+   "module": "Medicotrade Custom Fields",
+   "name": "Employee Advance-naming_series-options",
+   "owner": "Administrator",
+   "property": "options",
+   "property_type": "Text",
+   "row_name": null,
+   "value": "HR-EAD-.YYYY.-"
+  }
+ ],
+ "sync_on_migrate": 1
+}
